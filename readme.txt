@@ -5,3 +5,7 @@ Git tracks change.
 Creating a new branch is quick and simple.
 Test merge.
 Test bug.
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
